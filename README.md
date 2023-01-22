@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7fe67b&height=120&section=header"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fe67b&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Martins+Cavalcanti;I'm+35+years+old;I+am+from+Jardin+Cotiana,+SP;I+study+System+analysis+and+development+at+Universidade+Nove+de+Julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <a href = "mailto:guilherme.cavalcanti87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
