@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Guilherme87Martins/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme87Martins&layout=compact&langs_count=8&card_width=320&theme=github_dark&show_icons=true" />
 </a>
+
+
+
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Guilherme87Martins}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+
