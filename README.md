@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-2E8B57?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+5511957023362)
 <a href="mailto:guilherme.cavalcanti87@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/guilherme-martins-cavalcanti1987/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://instagram.com/guilhermemartins87" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
  <a href="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
 
