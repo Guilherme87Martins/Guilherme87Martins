@@ -22,11 +22,16 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Guilherme87Martins/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme87Martins&theme=github_dark&show_icons=true" />
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme87Martins&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github.com/Guilherme87Martins/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme87Martins&layout=compact&langs_count=8&card_width=320&theme=github_dark&show_icons=true" />
+  <img height=245 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme87Martins&layout=compact&langs_count=200&card_width=420&theme=github_dark&show_icons=true" />
 </a>
+
+
+
+![Snake animation](https://github.com/Guilherme87Martins/Guilherme87Martins/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
