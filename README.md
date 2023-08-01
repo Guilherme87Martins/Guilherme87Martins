@@ -34,6 +34,19 @@ Here are some ideas to get you started:
   <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme87Martins&layout=compact&langs_count=200&card_width=320&theme=github_dark&show_icons=true" />
 </a>
 
+## Alguns de meus conhecimentos  
+</div>
+<div style="display: inline_block">
+ <img align="center" alt="px-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+ <img align="center" alt="px-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="px-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="px-Java" height="55" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+ <img align="center" alt="px-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          
+          
+          
+                   
+           
 
 ![Snake animation](https://github.com/Guilherme87Martins/Guilherme87Martins/blob/output/github-contribution-grid-snake.svg)
 
@@ -41,7 +54,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Guilherme87Martins}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Guilherme87Martins}/count.svg" /></p> 
+<br></div>
