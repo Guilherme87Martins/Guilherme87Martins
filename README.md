@@ -40,7 +40,7 @@
   <img align="center" alt="px-Android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img align="center" alt="px-GitHub" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  
-
+ <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
  
  
            
