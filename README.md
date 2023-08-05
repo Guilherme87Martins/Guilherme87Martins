@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F4F4F&size=30&center=true&vCenter=true&width=1000&lines=Olá+Dev+👨🏾‍💻+Me+chamo+Guilherme+Martins+Cavalcanti;Sou+um+futuro+Analista+e+Desenvolvedor+de+Sistema;Aqui+você+encontra+alguns+de+meus+portifólio+💻📚;Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
-## Você pode me encontrar através desses contatos
+## Você pode me encontrar através desses contatos<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-2E8B57?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+5511957023362)
 <a href="mailto:guilherme.cavalcanti87@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/guilherme-martins-cavalcanti1987/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
