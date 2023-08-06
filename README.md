@@ -21,7 +21,7 @@
   <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme87Martins&layout=compact&langs_count=200&card_width=320&theme=github_dark&show_icons=true" />
 </a>
 
-## Alguns de meus conhecimentos  
+## Alguns de meus conhecimentos  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 </div>
 <div style="display: inline_block">
  <img align="center" alt="px-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
