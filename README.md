@@ -1,6 +1,6 @@
 ### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F4F4F&size=30&center=true&vCenter=true&width=1000&lines=Olá+Dev+👨🏾‍💻+Me+chamo+Guilherme+Martins+Cavalcanti;Sou+um+futuro+Analista+e+Desenvolvedor+de+Sistema;Aqui+você+encontra+alguns+de+meus+portifólio+💻📚;Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+ <img align="right" alt="Jhones-pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://live.staticflickr.com/65535/52967099794_25afacbeb7_h.jpg">
 
 
 ## Você pode me encontrar através desses contatos<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
