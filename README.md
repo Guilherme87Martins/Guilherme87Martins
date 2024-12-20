@@ -41,7 +41,7 @@
   <img align="center" alt="px-Android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img align="center" alt="px-GitHub" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  
-# ![snake gif](https://github.com/Guilherme87Martins/Guilherme87Martins/blob/output/github-contribution-grid-snake.gif)
+
  
  
            
