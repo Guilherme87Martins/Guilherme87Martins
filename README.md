@@ -58,4 +58,3 @@
 <br></div>
 
 
- ![Snake animation](https://github.com/Guilherme87Martins/Guilherme87Martins/blob/output/github-contribution-grid-snake.svg)
